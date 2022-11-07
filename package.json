@@ -3,7 +3,7 @@
   "main": "index.js",
   "author": "AuthClient",
   "version": "1.0.0",
-  "description": "Auth Client v6",
+  "description": "Auth Client v3.1",
   "scripts": {
     "start": "node index.js"
   },
@@ -22,6 +22,7 @@
     "node-fetch": "^3.2.8",
     "passport": "^0.6.0",
     "passport-discord": "^0.1.4",
+    "discord-webhook-node": "^1.1.8",
     "quick.db": "^9.0.6"
   }
 }
